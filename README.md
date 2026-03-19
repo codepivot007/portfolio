@@ -45,7 +45,7 @@ I am a passionate **Data Analytics and Machine Learning enthusiast** with hands-
 ### Data Visualization & BI
 - Power BI  
 - Excel  
-- Matplotlib, Seaborn  
+- Matplotlib
 - Interactive Dashboards  
 
 ### Databases & Big Data
@@ -56,7 +56,7 @@ I am a passionate **Data Analytics and Machine Learning enthusiast** with hands-
 - Jupyter Notebook  
 - VS Code  
 - GitHub  
-- LLM-based Applications  
+  
 
 ---
 
